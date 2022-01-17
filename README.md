@@ -1,0 +1,2 @@
+# docker_monitor_shell
+脚本用于监控服务器中docker和GPU的使用
